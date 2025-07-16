@@ -23,3 +23,5 @@ Dataset and trained model files (.h5) are not uploaded to GitHub due to size lim
 outputs:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e3a7143d-268f-4073-b381-37307e6415c1" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6fad5abf-9ce9-4c13-a2e3-41a376c138ee" />
