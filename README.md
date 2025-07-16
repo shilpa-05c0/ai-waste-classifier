@@ -20,3 +20,6 @@ Organic waste (banana peels, etc.)
 Paper waste (papers, newspapers, etc.)
 Dataset and trained model files (.h5) are not uploaded to GitHub due to size limits. You can contact me for access or use your own dataset.
 
+outputs:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e3a7143d-268f-4073-b381-37307e6415c1" />
